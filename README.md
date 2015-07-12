@@ -3,7 +3,7 @@ A jQuery Plugin to create small Bootstrap Lists - can be used in MVC or added to
 
 
 ### By Carmel Shvartzman
-### For http://themvcclub.blogspot.com
+### For  <a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
 This is the companion code for the following Tutorial:
 http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-lists-for-mvc.html
 
