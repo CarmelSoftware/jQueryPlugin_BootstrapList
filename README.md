@@ -11,7 +11,7 @@ http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-lists-for-mvc.htm
 
 
 
-<img border="0" height="518" src="http://4.bp.blogspot.com/-x8OFAFycQYY/VaNWRcb3hhI/AAAAAAAALX8/GM8wZ0lX2XM/s640/1.png" width="640" />
+<img border="0" height="518"    src="http://4.bp.blogspot.com/-x8OFAFycQYY/VaNWRcb3hhI/AAAAAAAALX8/GM8wZ0lX2XM/s640/1.png" width="640" />
 
 
 <img border="0" height="640" src="http://4.bp.blogspot.com/-QkJhL2fpmoo/VaNWRLVOnyI/AAAAAAAALXk/lC1OEBhg_UM/s640/2.png" width="376" />
